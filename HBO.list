@@ -1,0 +1,7 @@
+# 内容：HBO
+# 数量：3条
+USER-AGENT,HBO%20NOW*
+USER-AGENT,HBOMAX*
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,discomax.com
